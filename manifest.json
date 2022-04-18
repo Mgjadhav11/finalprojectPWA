@@ -1,0 +1,50 @@
+{
+    "name": " ",
+    "short-name": " ",
+    "start-url": "/project22/index.html",
+    "icons": [{
+		"src": "images/food_img1.jpg",
+		"sizes": "128x128",
+		"type": "image/png",
+		"purpose": "any"
+	}, {
+		"src": "images/food_img2.jpg",
+		"sizes": "144x144",
+		"type": "image/png",
+		"purpose": "any"
+	}, {
+		"src": "images/food_img4.jpg",
+		"sizes": "152x152",
+		"type": "image/png",
+		"purpose": "any"
+	}, {
+		"src": "images/food_img5.jpg",
+		"sizes": "192x192",
+		"type": "image/png",
+		"purpose": "any"
+	}, {
+      	"src": "images/food_img1.jpg",
+      	"sizes": "196x196",
+      	"type": "image/png",
+      	"purpose": "any maskable"
+    }, {
+		"src": "images/food_img1.jpg",
+		"sizes": "256x256",
+		"type": "image/png",
+		"purpose": "any"
+	}, {
+		"src": "images/food_img1.jpg",
+		"sizes": "512x512",
+		"type": "image/png",
+		"purpose": "any"
+	}
+
+        
+    ],
+    "lang": "en-us",
+    "theme-color" : "#000000",
+    "background_color": "#FFFFFF",
+    "display" : "standalone",
+    "orientation" : "portrait"
+
+}
